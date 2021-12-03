@@ -1,0 +1,10 @@
+
+#tablediv{
+    padding:10px 0px 10px 0px;
+}
+
+#tablestyle{
+    background-color: gray;
+    border-style:double;
+    border-color: navy;
+}
